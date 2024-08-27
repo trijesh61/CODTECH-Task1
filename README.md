@@ -6,8 +6,13 @@ KEYACTIVITIES: User Interaction: Allow users to input numbers and select operati
 
  OUTPUT: 
  Welcome to the basic calculator! 
- Enter the first number: 56 
- Enter the second number: 7 
- Select operation: 2. Subtraction 3. Multiplication 4. Division 
+ Enter the first number: 10
+ Enter the second number: 20 
+ 
+ Select operation: 
+ 1.Addition
+ 2. Subtraction 
+ 3. Multiplication 
+ 4. Division 
  Enter the number of the operation you want to perform (1/2/3/4): 4 
- Result: 56.0 / 7.0 = 8.0
+ Result: 10+20 = 30.0
