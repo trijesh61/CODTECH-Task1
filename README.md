@@ -8,7 +8,6 @@ KEYACTIVITIES: User Interaction: Allow users to input numbers and select operati
  Welcome to the basic calculator! 
  Enter the first number: 10
  Enter the second number: 20 
- 
  Select operation: 
  1.Addition
  2. Subtraction 
