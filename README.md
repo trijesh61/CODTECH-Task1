@@ -27,3 +27,8 @@ Flexibility: Provide a way to perform multiple calculations in a session, often 
  4. Division 
  Enter the number of the operation you want to perform (1/2/3/4): 4 
  Result: 10+20 = 30.0
+
+
+
+
+![Screenshot 2024-08-26 200131](https://github.com/user-attachments/assets/2565c6da-05b6-4106-922d-532d31d19c1b)
